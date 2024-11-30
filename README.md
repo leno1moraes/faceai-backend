@@ -1,1 +1,1 @@
-# Sistema de Reconhecimento Facil (BackEnd)
+# Sistema de Reconhecimento Facial (BackEnd)
