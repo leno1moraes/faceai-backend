@@ -1,1 +1,1 @@
-# faceai-backend
+# Sistema de Reconhecimento Facil (BackEnd)
